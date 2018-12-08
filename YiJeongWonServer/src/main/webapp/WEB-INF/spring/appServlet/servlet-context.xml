@@ -23,6 +23,8 @@
 	
 	<context:component-scan base-package="raccoongury.gmail.com" />
 	
+	<default-servlet-handler/>
+	
 	
 	
 </beans:beans>
